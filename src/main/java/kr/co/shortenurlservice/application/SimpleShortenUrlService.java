@@ -79,7 +79,7 @@ public class SimpleShortenUrlService {
                 return shortenUrlKey;
         }
 
-        throw new RuntimeException();
+        throw new LackOfShortenUrlKeyException();
     }
 
 }
