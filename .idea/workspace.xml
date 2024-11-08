@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2caa6f25-e711-4589-8602-06ebe440578d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/shortenurlservice/application/SimpleShortenUrlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/shortenurlservice/application/SimpleShortenUrlService.java" afterDir="false" />
-    </list>
+    <list default="true" id="2caa6f25-e711-4589-8602-06ebe440578d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
